@@ -47,4 +47,4 @@ For questions, feedback, or support related to this training course, please cont
 
 - Datux
 - training@datuxgroup.com
-- [datuX Group](https://datuxgroup.com/)
+- [DatuX Group](https://datuxgroup.com/)
